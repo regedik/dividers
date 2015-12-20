@@ -1,0 +1,4 @@
+D:\DISK\Projects\C#\divider\divider\bin\Debug\divider.exe
+D:\DISK\Projects\C#\divider\divider\bin\Debug\divider.pdb
+D:\DISK\Projects\C#\divider\divider\obj\x86\Debug\divider.exe
+D:\DISK\Projects\C#\divider\divider\obj\x86\Debug\divider.pdb
